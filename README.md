@@ -1,5 +1,24 @@
-# Entidad-Relacion
-Ejercicios Modelo Entidad-Relación: Diagramas en Draw.io para construir bases de datos
+# Entidad-Relacion Sprint 4
+
+# Make It Real - Ejercicios Modelo Entidad Relación
+This is a solution to the Modelo Entidad Relación project of the Make It Real course.
+
+## Table of contents
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+**The challenge**
+Diagramas en Draw.io para construir bases de datos:
 
 Problema 1: Zoológicos
 Se quiere diseñar una base de datos relacional que almacene información relativa a los zoológicos existentes en el mundo, así como las especies animales que éstos albergan. De cada zoológicos se conoce el nombre, ciudad y país donde se encuentra, tamaño (en m2) y presupuesto anual. De cada especie animal se almacena el nombre vulgar y nombre científico, familia a la que pertenece y si se encuentra en peligro de extinción. Además, se debe guardar información sobre cada animal que los zoológicos poseen, como su número de identificación, especie, sexo, año de nacimiento, país de origen y continente.
@@ -15,3 +34,36 @@ Por razones de contabilidad, se debe registrar la información de cada venta con
 
 Entregables:
 Crear un diagrama por cada problema, para ello puede utilizar herramientas como https://draw.io/, https://excalidraw.com/, https://www.lucidchart.com/ entre otras.
+
+**Screenshot**
+
+  ![Robot simulator testing](https://github.com/juanxavier357/Robot-simulator-testing/blob/main/Captura.JPG)
+  
+  ![image](https://github.com/juanxavier357/Robot-simulator-testing/blob/main/Coverage.JPG)
+
+
+## My process
+
+**Built with**
+* Visual Studio Code
+* Semantic HTML5 markup
+* Node
+* Jest
+
+**What I learned**
+* A poner en práctica los conocimientos adquiridos en el Curso de Preparación de Make It Real.
+* A usar Jest para testear aplicaciones de forma correcta con el método TDD.
+
+**Continued development**
+  Seguiré revisando la documentación de Jest para poder testear mis aplicaciones y encontrar si ay errores.
+
+**Useful resources**
+  Git, GitHub, Repositorio GitHub de Make It Real
+
+## Author
+  Website - www.agenciawebmovil.com/
+  GitHub - @juanxavier357
+
+## Acknowledgments
+  Agradezco a mis mentores Sergio, Cristian y Juan Lorza por sus enseñanzas y revisiones de este trabajo.
+
