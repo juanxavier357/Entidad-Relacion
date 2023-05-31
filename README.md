@@ -39,9 +39,9 @@ Crear un diagrama por cada problema, para ello puede utilizar herramientas como 
 
   ![Solución 1 - Zoológicos](https://github.com/juanxavier357/Entidad-Relacion/blob/main/Problema%201%20-%20Zoologicos.JPG)
   
-  ![Solución 2 - Gabinete de Abogados](https://github.com/juanxavier357/Entidad-Relacion/blob/main/Problema%201%20-%20Zoologicos.JPG)
+  ![Solución 2 - Gabinete de Abogados](https://github.com/juanxavier357/Entidad-Relacion/blob/main/Problema%202%20-%20Gabinete%20de%20Abogados.JPG)
   
-  ![Solución 3 - Sistema de Ventas](https://github.com/juanxavier357/Entidad-Relacion/blob/main/Problema%201%20-%20Zoologicos.JPG)
+  ![Solución 3 - Sistema de Ventas](https://github.com/juanxavier357/Entidad-Relacion/blob/main/Problema%203%20-%20Sistema%20de%20Ventas.JPG)
 
 
 ## My process
