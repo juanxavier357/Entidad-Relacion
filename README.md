@@ -49,18 +49,19 @@ Crear un diagrama por cada problema, para ello puede utilizar herramientas como 
 **Built with**
 * Visual Studio Code
 * Semantic HTML5 markup
-* Node
-* Jest
+* Draw.io
+* Formas de Normalización
+* Base de Datos
 
 **What I learned**
 * A poner en práctica los conocimientos adquiridos en el Curso de Preparación de Make It Real.
-* A usar Jest para testear aplicaciones de forma correcta con el método TDD.
+* A usar diagramas para diseñar un modelo de entidad relacional con draw.io.
 
 **Continued development**
   Seguiré revisando la documentación de Jest para poder testear mis aplicaciones y encontrar si ay errores.
 
 **Useful resources**
-  Git, GitHub, Repositorio GitHub de Make It Real
+  Git, GitHub, draw.io
 
 ## Author
   Website - www.agenciawebmovil.com/
