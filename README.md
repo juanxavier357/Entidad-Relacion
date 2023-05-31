@@ -37,9 +37,11 @@ Crear un diagrama por cada problema, para ello puede utilizar herramientas como 
 
 **Screenshot**
 
-  ![Robot simulator testing](https://github.com/juanxavier357/Robot-simulator-testing/blob/main/Captura.JPG)
+  ![Solución 1 - Zoológicos](https://github.com/juanxavier357/Entidad-Relacion/blob/main/Problema%201%20-%20Zoologicos.JPG)
   
-  ![image](https://github.com/juanxavier357/Robot-simulator-testing/blob/main/Coverage.JPG)
+  ![Solución 2 - Gabinete de Abogados](https://github.com/juanxavier357/Entidad-Relacion/blob/main/Problema%201%20-%20Zoologicos.JPG)
+  
+  ![Solución 3 - Sistema de Ventas](https://github.com/juanxavier357/Entidad-Relacion/blob/main/Problema%201%20-%20Zoologicos.JPG)
 
 
 ## My process
